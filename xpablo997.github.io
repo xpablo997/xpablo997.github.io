@@ -1,4 +1,5 @@
-<table>
+<table> bgcolor="yellow">
+<style> td { border: 1px solid black; } </style>
    <thead>
       <tr>
          <th>┌( ಠ_ಠ)┘</th> <th>{ಠ_ಠ}</th> <th>﴾͡๏̯͡๏﴿</th>
